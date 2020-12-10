@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Submarino\SubMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SonarLuz.cs" Line="40" Column="9" />
+      <File FileName="Assets\luzin.cs" Line="30" Column="20" />
+      <File FileName="Assets\Scripts\Submarino\SubSonar.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\Enemigos\ParedAltBounce.cs" Line="18" Column="42" />
+      <File FileName="Assets\Scripts\Submarino\SubMovement.cs" Line="46" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
